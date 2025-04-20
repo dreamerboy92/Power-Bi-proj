@@ -3,7 +3,9 @@
 This project presents an interactive **Power BI Dashboard** built to analyze and visualize grocery sales data from **Blinkit – India's Last Minute App**. The goal is to derive actionable insights related to outlet performance, item types, location-based trends, and customer ratings.
 
 📂 **Dashboard PDF**:  
-👉 [View Blinkit Dashboard (PDF)]("C:\Users\umesh\Downloads\Blikit dashboard p2.pdf")
+👉 ## 📸 Dashboard Snapshot
+
+![Blinkit Dashboard Preview]("C:\Users\umesh\Downloads\Blikit dashboard p2.pdf")
 
 ---
 
