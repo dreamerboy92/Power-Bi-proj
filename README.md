@@ -5,7 +5,8 @@ This project presents an interactive **Power BI Dashboard** built to analyze and
 📂 **Dashboard PDF**:  
 👉 ## 📸 Dashboard Snapshot
 
-![Blinkit Dashboard Preview]("C:\Users\umesh\Downloads\Blikit dashboard p2.pdf")
+  ![Blinkit Dashboard Preview](C:\Users\umesh\Downloads\Blikit dashboard p2.pdf)
+
 
 ---
 
